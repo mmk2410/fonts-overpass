@@ -1,0 +1,25 @@
+Source: fonts-overpass
+Section: fonts
+Priority: optional
+Maintainer: Marcel Kapfer <debian@mmk2410.org>
+Build-Depends: debhelper (>=11~)
+Standards-Version: 4.1.4
+Homepage: https://overpassfont.org/
+Vcs-Browser: https://git.mmk2410.org/deb/fonts-overpass
+Vcs-Git: https://git.mmk2410.org/deb/fonts-overpass.git
+
+Package: fonts-overpass
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Overpass font family
+ The open-source Overpass font family is inspired by the Highway
+ Gothic font. It is created by Delve Fonts and sponsored by Red Hat.
+
+Package: fonts-overpass-mono
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Overpass Mono font family
+ The open-source Overpass font family is inspired by the Highway
+ Gothic font. It is created by Delve Fonts and sponsored by Red Hat.

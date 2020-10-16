@@ -1,0 +1,8 @@
+fonts-overpass for Debian
+
+Since the Overpass font family contains a sans-serif and a monospace
+typeface and those are packaged togehther this source package which
+outputs two packages: one for the sans-serif typeface and another for
+the monospace typeface.
+
+ -- Marcel Kapfer <opensource@mmk2410.org>  Fri, 16 Oct 2020 15:31:09 +0200
